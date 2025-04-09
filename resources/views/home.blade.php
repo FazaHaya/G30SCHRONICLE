@@ -18,7 +18,7 @@
             <li><a href="#quiz">Quiz</a></li>
             <li><a href="#contact">Contact</a></li>
         </ul>
-        <a href="#" class="btn-ai">Ask Ai</a>
+        <a href="#" class="btn-ai">Ask AI</a>
     </nav>
 
     <!-- Hero Section -->
@@ -169,7 +169,6 @@
             </div>
         </div>
     </section>
-    
     
 </body>
 </html>
