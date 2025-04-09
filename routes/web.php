@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\KisahController;
 
 Route::get('/', function () {
-    return view('home');
+    return view('home')->name('home');
 });
 
 Route::get('/quiz', function () {
