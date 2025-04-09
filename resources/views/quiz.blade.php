@@ -1,5 +1,4 @@
-<!-- resources/views/quiz.blade.php -->
-@extends('layouts.app') <!-- atau layout yang kamu pakai -->
+@extends('layouts.app')
 
 @section('content')
     <div style="text-align: center; padding: 100px;">
