@@ -6,7 +6,8 @@
 <head>
     <meta charset="UTF-8">
     <title>G30S Chronicles</title>
-    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+<!--     <link rel="stylesheet" href="{{ asset('css/style.css') }}"> -->
+    @vite('resources/css/app.css')
 </head>
 <body>
     <!-- Navbar -->
